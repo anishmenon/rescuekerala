@@ -1,6 +1,6 @@
 # Optimization Todo list
 
-Anish Menon
+- Anish Menon
 
 What i'm suggesting to do are 
 
